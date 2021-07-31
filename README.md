@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Idewor</h1>
 <h3 align="center">Hello World! I am a Full Stack Software Developer who is passionate about changing the world. I believe that nothing is impossible!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benidevo" alt="benidevo" /></a> </p>
 
 - 📫 How to reach me **benjaminidewor@gmail.com**
 
