@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Benjamin Idewor</h1>
-<h3 align="center">. . .a Full Stack Software Developer who is passionate about changing the world. I believe that nothing is impossible!</h3>
+<h3 align="center">. . . a Full Stack Software Developer who is passionate about changing the world. I believe that nothing is impossible!</h3>
 
 - 💬 Ask me about **Django, Node and React**
 
