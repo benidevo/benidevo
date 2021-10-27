@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Idewor</h1>
-<h3 align="center">With every line of code, I strive to make the web a beautiful and safe place</h3>
+<h3 align="center">With every line of code, I strive to make the web a beautiful and safe place.</h3>
 
 - 💬 Ask me about **Django, Node.js, Flask**
 
