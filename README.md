@@ -1,4 +1,6 @@
-<h3 align="center">With every line of code, I strive to make the web a beautiful and safe place.</h3>
+<h2 align="center">With every line of code, I strive to make the web a beautiful and safe place.</h2>
+<br>
+<br>
 
 - 👨‍💻 All of my projects are available at [https://benidevo.tech](https://benidevo.tech)
 
