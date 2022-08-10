@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://benidevo.tech](https://benidevo.tech)
 
-- 💬 Ask me about **Python, Django, Flask, Nodejs, and Expressjs**
+- 💬 Ask me about **React, Python, Nodejs, and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
