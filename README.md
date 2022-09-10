@@ -2,7 +2,7 @@
 <br/>
 
 
-- 💬 Ask me about **Python, Django, Flask, Nodejs, Expressjs and React**
+- 💬 Ask me about **Python, Django, Flask, Nodejs and Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
