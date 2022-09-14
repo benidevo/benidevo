@@ -1,7 +1,7 @@
 <h3 align="center">With every line of code, I strive to make the web a safe place.</h3>
 <br/>
 
-- 💬 Ask me about **Python, Django, Flask, Nodejs and Express**
+- 💬 Ask me about **Python, Django, Flask, NodeJS and ExpressJS**
 
 - 📫 How to reach me **benjaminidewor@gmail.com**
 
