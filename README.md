@@ -1,7 +1,7 @@
 <h2 align="center">With every line of code, I strive to make the web a beautiful and safe place.</h2>
 <br />
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI, Node.js, ExpressJS, and NestJS**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, Node.js and ExpressJS**
 
 - 📫 How to reach me **benjaminidewor@gmail.com**
 
