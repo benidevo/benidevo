@@ -1,4 +1,4 @@
-<h2 align="center">I am passionate about building secure and scalable systems"</h2>
+<h2 align="center">I am passionate about building secure and scalable systems</h2>
 <br />
 
 - 💬 Ask me about **Python and Java**
