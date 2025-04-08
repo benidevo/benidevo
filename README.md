@@ -1,6 +1,6 @@
 <h3 align="center">With every line of code, I strive to make the web a beautiful and safe place.</h3>
 
-- 💬 Ask me about **Python and Go**
+- 💬 Ask me about **Python, Java and Go**
 
 - 📫 How to reach me **benjaminidewor@gmail.com**
 
