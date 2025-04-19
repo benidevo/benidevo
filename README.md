@@ -19,9 +19,9 @@
 
 I'm a backend engineer specializing in distributed systems, microservices, and infrastructure development. I build scalable and resilient systems that power modern applications.
 
-- 🔭 Working with Go, Java, and Python for enterprise-level solutions
-- 🌱 Passionate about system design, infrastructure as code, and event-driven architectures
-- 💡 I enjoy solving complex problems with elegant, maintainable solutions
+- 🔭 Working with Go, Java, and Python for enterprise-level solutions.
+- 🌱 Passionate about system design, infrastructure as code, and event-driven architectures.
+- 💡 I enjoy solving complex problems.
 
 ## 🛠️ Tech Stack
 
