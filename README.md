@@ -18,7 +18,7 @@
 
 I'm a backend engineer working with distributed systems and event-driven architectures. I use Go and Python to build services that need to scale reliably.
 
-- 🚀 Working on [Vega AI](https://github.com/benidevo/vega-ai) and [Drift](https://github.com/benidevo/drift)
+- 🚀 Working on [Vega AI](https://github.com/benidevo/vega-ai)
 - 🔧 Deep experience with microservices, event sourcing, and CQRS patterns
 - 🌱 Always exploring new patterns in distributed computing
 - 💡 Believe in simple solutions to complex problems
