@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am a software engineer focused on distributed systems. I build event-driven services and scalable APIs, and work across databases, infrastructure, and observability.
+I am a software engineer focused on distributed systems. I build event-driven services and scalable APIs, and work across databases and infrastructure.
 
 - 🚀 Currently working on [Vega AI](https://github.com/benidevo/vega-ai)
 - 🔧 I have deep experience with Microservices, Kubernetes, and Domain Driven Design
